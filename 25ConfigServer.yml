@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/freshers_june_2026
+    url: jdbc:mysql://localhost:3306/freshers_may_2026
     username: root
     password: root
 
