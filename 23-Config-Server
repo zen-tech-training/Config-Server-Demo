@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: STOCK-APP-Config-Server-Demo
+  datasource:
+    url: jdbc:mysql://localhost:3306/freshers_june_2026
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
